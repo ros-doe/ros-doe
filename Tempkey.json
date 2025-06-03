@@ -1,16 +1,16 @@
 [
   {
     "id": "6d95fal7c7e40bea",
-    "username": "dpmods",
-    "password": "dpmods",
-    "expiresAt": "2025-5-31",
+    "username": "doemod",
+    "password": "doemod",
+    "expiresAt": "2025-12-31",
     "allowOffline": true
   },
   {
     "id": "3812d4479553f655",
     "username": "doemod",
-    "password": "12345",
-    "expiresAt": "2025-5-31",
+    "password": "doemod",
+    "expiresAt": "2025-12-31",
     "allowOffline": true
   },
   {
