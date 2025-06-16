@@ -6,6 +6,13 @@
     "expiresAt": "2025-06-29",
     "allowOffline": true
   },
+   {
+    "id": "b7367a05538bcfab",
+    "username": "doemod",
+    "password": "doemod",
+    "expiresAt": "2025-06-29",
+    "allowOffline": true
+  },
   {
     "id": "android_device_id_2",
     "username": "user2",
